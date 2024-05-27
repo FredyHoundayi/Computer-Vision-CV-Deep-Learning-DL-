@@ -29,10 +29,10 @@ python model6.py
 3.Recognition: Use recognition.py for real-time recognition.
 python recognition.py
 
-#Contributing
+##Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes you would like to make.
 
-#License
+##License
 This project is licensed under the MIT License.
 
 
